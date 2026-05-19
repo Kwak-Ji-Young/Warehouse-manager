@@ -1,0 +1,4 @@
+1. ui_probe.py 실행, ui_probe_params.json 으로 자동저장 됨
+2. mm_probe_red.py 실행, 측정 후 기입
+3. minimap_setup_red.py 실행, 미니맵 드래그 -> 미니맵 본인캐릭터 점 -> 's'저장
+4. macro_red.py 실행
